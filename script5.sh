@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 5: Open Source Manifesto Generator
-# Author: Ravi Kumar Pal  | Reg No: 24MIP10162
+# Author: Jatin Rathor  | Reg No: 24MEI10139
 # Course: Open Source Software | Chosen Software: Python
 # Purpose: Asks the user 3 questions interactively and
 #          generates a personalised open source manifesto,
