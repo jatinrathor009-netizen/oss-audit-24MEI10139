@@ -7,8 +7,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | Ravi Kumar Pal |
-| **Registration Number** | 24MIP10162 |
+| **Student Name** | Jatin Rathor|
+| **Registration Number** | 24MEI10139 |
 | **Course** | Open Source Software (OSS NGMC) |
 | **Chosen Software** | Python |
 | **License** | Python Software Foundation (PSF) License |
