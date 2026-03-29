@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 3: Disk and Permission Auditor
-# Author: Ravi Kumar Pal  | Reg No: 24MIP10162
+# Author: Jatin Rathor | Reg No: 24MEI10139
 # Course: Open Source Software | Chosen Software: Python
 # Purpose: Loops through key system directories and reports
 #          their permissions, ownership, and disk usage
