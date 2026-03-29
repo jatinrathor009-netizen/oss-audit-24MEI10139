@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 1: System Identity Report
-# Author: Ravi Kumar Pal | Course: Open Source Software
+# Author: Jatin Rathor| Course: Open Source Software
 # Purpose: Displays system info as a welcome/identity screen
 # ============================================================
 
