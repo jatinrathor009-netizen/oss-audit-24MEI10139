@@ -6,7 +6,7 @@
 # ============================================================
 
 # --- Variables ---
-STUDENT_NAME="Ravi Kumar Pal"    
+STUDENT_NAME="Jatin Rathor"    
 SOFTWARE_CHOICE="Python"           # Our chosen open source software
 LICENSE_NAME="PSF License (Python Software Foundation License)"
 
