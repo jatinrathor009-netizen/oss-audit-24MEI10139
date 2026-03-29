@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 2: FOSS Package Inspector
-# Author: Ravi Kumar Pal  | Reg No: 24MIP10162
+# Author: Jatin Rathor | Reg No: 24MEI10139
 # Course: Open Source Software | Chosen Software: Python
 # Purpose: Checks if a FOSS package is installed, shows its
 #          version and license, and prints a philosophy note
